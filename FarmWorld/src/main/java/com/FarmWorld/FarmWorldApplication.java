@@ -8,7 +8,7 @@ public class FarmWorldApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FarmWorldApplication.class, args);
-		System.out.println("Hello, i am d=from spring");
+
 	}
 
 }
